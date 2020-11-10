@@ -1,0 +1,37 @@
+.navbar {
+background-color: #de1d22;
+}
+#body{
+  background-color: #000000;
+}
+
+#color-de-texto{
+  color: white;
+  font-family: 'Inter', sans-serif;
+}
+
+.h5 {
+  color: white;
+  font-family: 'Inter', sans-serif;
+  background-color: black;
+}
+
+.carrousel-caption {
+  color: black;
+  font-family: 'Inter',  sans-serif;
+  background-color: white;
+}
+
+#card-red{
+  background-color: #de1d22;
+}
+.card-text{
+   color: #ededed;
+}
+.card-title{
+   color: #ededed;
+}
+
+#color-grilla{
+  color:#ededed;
+}
